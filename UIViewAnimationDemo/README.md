@@ -1,6 +1,6 @@
 # UIView 基础动画
 
-![](pictures/01.png)
+![](../Images/UIViewAnimationDemo-01.png)
 
 ### 1.大小动画（改变frame）
 ``` python
@@ -18,7 +18,7 @@
     }];
 }
 ```
-![](pictures/animation1.gif)
+![](../Images/UIViewAnimationDemo-animation1.gif)
 
 ### 2.拉伸动画（改变bounds）
 ``` python
@@ -36,7 +36,7 @@
     }];
 }
 ```
-![](pictures/animation2.gif)
+![](../Images/UIViewAnimationDemo-animation2.gif)
 
 ### 3.转移动画（改变center）
 ``` python
@@ -53,7 +53,7 @@
     }];
 }
 ```
-![](pictures/animation3.gif)
+![](../Images/UIViewAnimationDemo-animation3.gif)
 
 ### 4.旋转动画(改变transform)
 ``` python
@@ -79,7 +79,7 @@
     }];
 }
 ```
-![](pictures/animation4.gif)
+![](../Images/UIViewAnimationDemo-animation4.gif)
 
 ### 5.透明度动画(改变alpha)
 ``` python
@@ -94,7 +94,7 @@
     }];
 }
 ```
-![](pictures/animation5.gif)
+![](../Images/UIViewAnimationDemo-animation5.gif)
 
 ### 6.背景颜色Keyframes动画（改变background）
 ``` python
@@ -120,7 +120,7 @@
     }];
 }
 ```
-![](pictures/animation6.gif)
+![](../Images/UIViewAnimationDemo-animation6.gif)
 
 ### 7.Spring动画（iOS7.0起）
 ``` python
@@ -145,7 +145,7 @@
     }];
 }
 ```
-![](pictures/animation7.gif)
+![](../Images/UIViewAnimationDemo-animation7.gif)
 
 ### 8.transition动画
 ``` python
@@ -162,7 +162,7 @@
     }];
 }
 ```
-![](pictures/animation8.gif)
+![](../Images/UIViewAnimationDemo-animation8.gif)
 
 ### 9.关于参数option选择说明
 #### (1) UIViewAnimationOptions
@@ -218,7 +218,7 @@ UIViewKeyframeAnimationOptionCalculationModeCubicPaced //运算模式 :平滑均
 - UIViewKeyframeAnimationOptions用着Keyframes动画，其余都用UIViewAnimationOptions枚举
 
 ### 源码
-Demo下载地址：[UIViewAnimationDemo ](https://github.com/NSMichael/UIViewAnimationDemo)
+Demo下载地址：[UIViewAnimationDemo ](https://github.com/NSMichael/SampleCode/tree/master/UIViewAnimationDemo)
 
-![Demo运行效果](pictures/00.png)
+![Demo运行效果](../Images/UIViewAnimationDemo-00.png)
 
