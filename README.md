@@ -1,6 +1,18 @@
 # SampleCode
 All of the code examples are here
 
+### [Swift-Project-06](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-06)
+##### GETTING CURRENT DATE AND 
+<img src="Images/Swift-Project-06.gif" width="240px" />
+
+### [Swift-Project-05](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-05)
+##### BASIC TABLE VIEW
+<img src="Images/Swift-Project-05.png" width="240px" />
+
+### [Swift-Project-04](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-04)
+##### TIP CALCULATOR
+<img src="Images/Swift-Project-04.gif" width="240px" />
+
 ### [Swift-Project-03](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-03)
 ##### SWIFT IAD
 <img src="Images/Swift-Project-03.png" width="240px" />
