@@ -1,6 +1,30 @@
 # SampleCode
 All of the code examples are here
 
+### [Swift-Project-12](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-12)
+##### ADD NEW ITEM
+<img src="Images/Swift-Project-12.gif" width="240px" />
+
+### [Swift-Project-11](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-11)
+##### DELETING AND REARRANGING
+<img src="Images/Swift-Project-11.gif" width="240px" />
+
+### [Swift-Project-10](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-10)
+##### PULL TO REFRESH TABLE VIEW
+<img src="Images/Swift-Project-10.gif" width="240px" />
+
+### [Swift-Project-09](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-09)
+##### ADD PHOTO FROM CAMERA ROLL
+<img src="Images/Swift-Project-09.gif" width="240px" />
+
+### [Swift-Project-08](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-08)
+##### SWIPE TO DISMISS KEYBOARD
+<img src="Images/Swift-Project-08.gif" width="240px" />
+
+### [Swift-Project-07](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-07)
+##### PASSING DATA TO ANOTHER VIEW
+<img src="Images/Swift-Project-07.gif" width="240px" />
+
 ### [Swift-Project-06](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-06)
 ##### GETTING CURRENT DATE AND 
 <img src="Images/Swift-Project-06.gif" width="240px" />
