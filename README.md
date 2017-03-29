@@ -1,6 +1,10 @@
 # SampleCode
 All of the code examples are here
 
+### [iOS-Programming-Chapter1-Quiz](https://github.com/NSMichael/SampleCode/tree/master/iOS-Programming-Chapter1-Quiz)
+##### A Simple iOS Application
+<img src="Images/ios-programming-chapter1-1.png" width="240px" />
+
 ### [Swift-Project-12](https://github.com/NSMichael/SampleCode/tree/master/Swift-Project-12)
 ##### ADD NEW ITEM
 <img src="Images/Swift-Project-12.gif" width="240px" />
