@@ -1,6 +1,10 @@
 # SampleCode
 All of the code examples are here
 
+### [iOS-Programming-Chapter2-Playground](https://github.com/NSMichael/SampleCode/tree/master/iOS-Programming-Chapter2-Playground)
+##### The Swift Language
+<img src="Images/ios-programming-chapter2-3.png" width="240px" />
+
 ### [iOS-Programming-Chapter1-Quiz](https://github.com/NSMichael/SampleCode/tree/master/iOS-Programming-Chapter1-Quiz)
 ##### A Simple iOS Application
 <img src="Images/ios-programming-chapter1-1.png" width="240px" />
